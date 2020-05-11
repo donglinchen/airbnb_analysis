@@ -38,7 +38,7 @@ There are three jupyter notebook files avaiable:
 
 ### Results<a name="results"></a>
 
-The result can be found at the post available here
+The result can be found at the post available at https://medium.com/@donglinchen/plan-a-vacation-in-boston-or-seattle-263e928d29cd
 
 
 ### Licensing, Authors, Acknowledgements<a name="licensing"></a>
