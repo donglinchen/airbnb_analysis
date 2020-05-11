@@ -33,7 +33,7 @@ There are three jupyter notebook files avaiable:
 
 2. airbnb_calender_analysis.ipynb: this file contains code to explor the price changes during different months of the year, and compare between Boston and Seattle
 
-3. price_prediction.ipynb: this file contains code to build a linear regression model to predict airbnb listing price in Boston
+3. price_model.ipynb: this file contains code to build a linear regression model to predict airbnb listing price in Boston
 
 
 ### Results<a name="results"></a>
